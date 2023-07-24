@@ -1,0 +1,96 @@
+	Cell 1		Cell 2		Cell 3		Cell 4		Cell 5		Cell 6		Cell 7		Cell 8		Cell 9		Cell 10		Cell 11		Cell 12		Cell 13		Cell 14		Cell 15		Cell 16	
+	North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None		North: None	
+	South: 17		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: 32	
+	East:  2		East:  3		East:  4		East:  5		East:  6		East:  7		East:  8		East:  9		East:  10		East:  11		East:  12		East:  13		East:  14		East:  15		East:  16		East:  None	
+	West:  None		West:  1		West:  2		West:  3		West:  4		West:  5		West:  6		West:  7		West:  8		West:  9		West:  10		West:  11		West:  12		West:  13		West:  14		West:  15	
+----------------------------------------------------------------------------------------------------
+	Cell 17		Cell 18		Cell 19		Cell 20		Cell 21		Cell 22		Cell 23		Cell 24		Cell 25		Cell 26		Cell 27		Cell 28		Cell 29		Cell 30		Cell 31		Cell 32	
+	North: 1		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: 16	
+	South: 33		South: 34		South: X		South: X		South: X		South: 38		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: 48	
+	East:  X		East:  19		East:  20		East:  21		East:  X		East:  23		East:  24		East:  25		East:  26		East:  27		East:  28		East:  29		East:  30		East:  31		East:  32		East:  None	
+	West:  None		West:  X		West:  18		West:  19		West:  20		West:  X		West:  22		West:  23		West:  24		West:  25		West:  26		West:  27		West:  28		West:  29		West:  30		West:  31	
+----------------------------------------------------------------------------------------------------
+	Cell 33		Cell 34		Cell 35		Cell 36		Cell 37		Cell 38		Cell 39		Cell 40		Cell 41		Cell 42		Cell 43		Cell 44		Cell 45		Cell 46		Cell 47		Cell 48	
+	North: 17		North: 18		North: X		North: X		North: X		North: 22		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: 32	
+	South: 49		South: 50		South: 51		South: X		South: 53		South: X		South: 55		South: 56		South: 57		South: 58		South: 59		South: 60		South: X		South: X		South: 63		South: 64	
+	East:  X		East:  X		East:  36		East:  37		East:  X		East:  39		East:  X		East:  41		East:  X		East:  43		East:  X		East:  45		East:  46		East:  47		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  35		West:  36		West:  X		West:  38		West:  X		West:  40		West:  X		West:  42		West:  X		West:  44		West:  45		West:  46		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 49		Cell 50		Cell 51		Cell 52		Cell 53		Cell 54		Cell 55		Cell 56		Cell 57		Cell 58		Cell 59		Cell 60		Cell 61		Cell 62		Cell 63		Cell 64	
+	North: 33		North: 34		North: 35		North: X		North: 37		North: X		North: 39		North: 40		North: 41		North: 42		North: 43		North: 44		North: X		North: X		North: 47		North: 48	
+	South: 65		South: 66		South: 67		South: 68		South: 69		South: 70		South: X		South: X		South: X		South: X		South: 75		South: X		South: 77		South: 78		South: X		South: 80	
+	East:  X		East:  X		East:  X		East:  X		East:  54		East:  X		East:  56		East:  X		East:  58		East:  X		East:  X		East:  61		East:  X		East:  63		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  X		West:  53		West:  X		West:  55		West:  X		West:  57		West:  X		West:  X		West:  60		West:  X		West:  62		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 65		Cell 66		Cell 67		Cell 68		Cell 69		Cell 70		Cell 71		Cell 72		Cell 73		Cell 74		Cell 75		Cell 76		Cell 77		Cell 78		Cell 79		Cell 80	
+	North: 49		North: 50		North: 51		North: 52		North: 53		North: 54		North: X		North: X		North: X		North: X		North: 59		North: X		North: 61		North: 62		North: X		North: 64	
+	South: 81		South: 82		South: X		South: 84		South: 85		South: 86		South: 87		South: 88		South: 89		South: 90		South: 91		South: 92		South: X		South: X		South: 95		South: 96	
+	East:  X		East:  X		East:  68		East:  69		East:  X		East:  X		East:  72		East:  X		East:  74		East:  X		East:  X		East:  77		East:  X		East:  79		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  67		West:  68		West:  X		West:  X		West:  71		West:  X		West:  73		West:  X		West:  X		West:  76		West:  X		West:  78		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 81		Cell 82		Cell 83		Cell 84		Cell 85		Cell 86		Cell 87		Cell 88		Cell 89		Cell 90		Cell 91		Cell 92		Cell 93		Cell 94		Cell 95		Cell 96	
+	North: 65		North: 66		North: X		North: 68		North: 69		North: 70		North: 71		North: 72		North: 73		North: 74		North: 75		North: 76		North: X		North: X		North: 79		North: 80	
+	South: 97		South: 98		South: 99		South: X		South: 101		South: 102		South: 103		South: X		South: X		South: X		South: X		South: 108		South: 109		South: 110		South: X		South: 112	
+	East:  X		East:  X		East:  84		East:  X		East:  86		East:  X		East:  X		East:  89		East:  X		East:  91		East:  X		East:  X		East:  X		East:  95		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  83		West:  X		West:  85		West:  X		West:  X		West:  88		West:  X		West:  90		West:  X		West:  X		West:  X		West:  94		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 97		Cell 98		Cell 99		Cell 100		Cell 101		Cell 102		Cell 103		Cell 104		Cell 105		Cell 106		Cell 107		Cell 108		Cell 109		Cell 110		Cell 111		Cell 112	
+	North: 81		North: 82		North: 83		North: X		North: 85		North: 86		North: 87		North: X		North: X		North: X		North: X		North: 92		North: 93		North: 94		North: X		North: 96	
+	South: 113		South: 114		South: 115		South: 116		South: 117		South: 118		South: 119		South: X		South: X		South: X		South: X		South: X		South: 125		South: 126		South: X		South: 128	
+	East:  X		East:  X		East:  X		East:  101		East:  102		East:  X		East:  104		East:  105		East:  106		East:  107		East:  108		East:  X		East:  110		East:  111		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  100		West:  101		West:  X		West:  103		West:  104		West:  105		West:  106		West:  107		West:  X		West:  109		West:  110		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 113		Cell 114		Cell 115		Cell 116		Cell 117		Cell 118		Cell 119		Cell 120		Cell 121		Cell 122		Cell 123		Cell 124		Cell 125		Cell 126		Cell 127		Cell 128	
+	North: 97		North: 98		North: 99		North: 100		North: 101		North: 102		North: 103		North: X		North: X		North: X		North: X		North: X		North: 109		North: 110		North: X		North: 112	
+	South: 129		South: 130		South: 131		South: 132		South: 133		South: 134		South: X		South: 136		South: 137		South: 138		South: X		South: X		South: X		South: X		South: 143		South: 144	
+	East:  X		East:  X		East:  X		East:  117		East:  118		East:  X		East:  X		East:  121		East:  X		East:  123		East:  124		East:  125		East:  X		East:  X		East:  128		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  116		West:  117		West:  X		West:  X		West:  120		West:  X		West:  122		West:  123		West:  124		West:  X		West:  X		West:  127	
+----------------------------------------------------------------------------------------------------
+	Cell 129		Cell 130		Cell 131		Cell 132		Cell 133		Cell 134		Cell 135		Cell 136		Cell 137		Cell 138		Cell 139		Cell 140		Cell 141		Cell 142		Cell 143		Cell 144	
+	North: 113		North: 114		North: 115		North: 116		North: 117		North: 118		North: X		North: 120		North: 121		North: 122		North: X		North: X		North: X		North: X		North: 127		North: 128	
+	South: 145		South: 146		South: 147		South: 148		South: 149		South: 150		South: 151		South: X		South: 153		South: X		South: X		South: 156		South: 157		South: 158		South: X		South: 160	
+	East:  X		East:  X		East:  X		East:  133		East:  134		East:  X		East:  136		East:  137		East:  X		East:  139		East:  140		East:  X		East:  142		East:  143		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  132		West:  133		West:  X		West:  135		West:  136		West:  X		West:  138		West:  139		West:  X		West:  141		West:  142		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 145		Cell 146		Cell 147		Cell 148		Cell 149		Cell 150		Cell 151		Cell 152		Cell 153		Cell 154		Cell 155		Cell 156		Cell 157		Cell 158		Cell 159		Cell 160	
+	North: 129		North: 130		North: 131		North: 132		North: 133		North: 134		North: 135		North: X		North: 137		North: X		North: X		North: 140		North: 141		North: 142		North: X		North: 144	
+	South: 161		South: 162		South: 163		South: 164		South: 165		South: 166		South: X		South: X		South: X		South: 170		South: 171		South: 172		South: 173		South: X		South: 175		South: 176	
+	East:  X		East:  X		East:  X		East:  149		East:  150		East:  X		East:  152		East:  153		East:  X		East:  155		East:  X		East:  X		East:  X		East:  X		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  148		West:  149		West:  X		West:  151		West:  152		West:  X		West:  154		West:  X		West:  X		West:  X		West:  X		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 161		Cell 162		Cell 163		Cell 164		Cell 165		Cell 166		Cell 167		Cell 168		Cell 169		Cell 170		Cell 171		Cell 172		Cell 173		Cell 174		Cell 175		Cell 176	
+	North: 145		North: 146		North: 147		North: 148		North: 149		North: 150		North: X		North: X		North: X		North: 154		North: 155		North: 156		North: 157		North: X		North: 159		North: 160	
+	South: 177		South: 178		South: 179		South: 180		South: 181		South: 182		South: X		South: X		South: 185		South: 186		South: 187		South: 188		South: X		South: X		South: 191		South: 192	
+	East:  X		East:  X		East:  X		East:  165		East:  166		East:  X		East:  168		East:  169		East:  X		East:  171		East:  X		East:  X		East:  174		East:  175		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  164		West:  165		West:  X		West:  167		West:  168		West:  X		West:  170		West:  X		West:  X		West:  173		West:  174		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 177		Cell 178		Cell 179		Cell 180		Cell 181		Cell 182		Cell 183		Cell 184		Cell 185		Cell 186		Cell 187		Cell 188		Cell 189		Cell 190		Cell 191		Cell 192	
+	North: 161		North: 162		North: 163		North: 164		North: 165		North: 166		North: X		North: X		North: 169		North: 170		North: 171		North: 172		North: X		North: X		North: 175		North: 176	
+	South: 193		South: 194		South: 195		South: 196		South: 197		South: 198		South: X		South: 200		South: 201		South: 202		South: 203		South: X		South: X		South: 206		South: 207		South: 208	
+	East:  X		East:  X		East:  X		East:  181		East:  182		East:  183		East:  184		East:  X		East:  X		East:  187		East:  X		East:  189		East:  190		East:  X		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  180		West:  181		West:  182		West:  183		West:  X		West:  X		West:  186		West:  X		West:  188		West:  189		West:  X		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 193		Cell 194		Cell 195		Cell 196		Cell 197		Cell 198		Cell 199		Cell 200		Cell 201		Cell 202		Cell 203		Cell 204		Cell 205		Cell 206		Cell 207		Cell 208	
+	North: 177		North: 178		North: 179		North: 180		North: 181		North: 182		North: X		North: 184		North: 185		North: 186		North: 187		North: X		North: X		North: 190		North: 191		North: 192	
+	South: 209		South: 210		South: 211		South: 212		South: 213		South: 214		South: X		South: 216		South: 217		South: X		South: X		South: 220		South: 221		South: 222		South: 223		South: 224	
+	East:  X		East:  X		East:  X		East:  197		East:  198		East:  199		East:  200		East:  X		East:  202		East:  X		East:  X		East:  205		East:  X		East:  X		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  X		West:  196		West:  197		West:  198		West:  199		West:  X		West:  201		West:  X		West:  X		West:  204		West:  X		West:  X		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 209		Cell 210		Cell 211		Cell 212		Cell 213		Cell 214		Cell 215		Cell 216		Cell 217		Cell 218		Cell 219		Cell 220		Cell 221		Cell 222		Cell 223		Cell 224	
+	North: 193		North: 194		North: 195		North: 196		North: 197		North: 198		North: X		North: 200		North: 201		North: X		North: X		North: 204		North: 205		North: 206		North: 207		North: 208	
+	South: 225		South: 226		South: 227		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: 239		South: 240	
+	East:  210		East:  X		East:  X		East:  213		East:  214		East:  215		East:  216		East:  X		East:  218		East:  219		East:  220		East:  X		East:  222		East:  X		East:  X		East:  None	
+	West:  None		West:  209		West:  X		West:  X		West:  212		West:  213		West:  214		West:  215		West:  X		West:  217		West:  218		West:  219		West:  X		West:  221		West:  X		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 225		Cell 226		Cell 227		Cell 228		Cell 229		Cell 230		Cell 231		Cell 232		Cell 233		Cell 234		Cell 235		Cell 236		Cell 237		Cell 238		Cell 239		Cell 240	
+	North: 209		North: 210		North: 211		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: 223		North: 224	
+	South: 241		South: 242		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: X		South: 256	
+	East:  X		East:  X		East:  228		East:  229		East:  230		East:  231		East:  232		East:  233		East:  234		East:  235		East:  236		East:  237		East:  238		East:  239		East:  X		East:  None	
+	West:  None		West:  X		West:  X		West:  227		West:  228		West:  229		West:  230		West:  231		West:  232		West:  233		West:  234		West:  235		West:  236		West:  237		West:  238		West:  X	
+----------------------------------------------------------------------------------------------------
+	Cell 241		Cell 242		Cell 243		Cell 244		Cell 245		Cell 246		Cell 247		Cell 248		Cell 249		Cell 250		Cell 251		Cell 252		Cell 253		Cell 254		Cell 255		Cell 256	
+	North: 225		North: 226		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: X		North: 240	
+	South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None		South: None	
+	East:  X		East:  243		East:  244		East:  245		East:  246		East:  247		East:  248		East:  249		East:  250		East:  251		East:  252		East:  253		East:  254		East:  255		East:  256		East:  None	
+	West:  None		West:  X		West:  242		West:  243		West:  244		West:  245		West:  246		West:  247		West:  248		West:  249		West:  250		West:  251		West:  252		West:  253		West:  254		West:  255	
+----------------------------------------------------------------------------------------------------
