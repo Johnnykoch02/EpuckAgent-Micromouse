@@ -28,7 +28,7 @@ After instantiating the `Agent` class and creating a `Grid` object, the agent is
 
 The main loop of the program involves calling the agent's `step()` function repeatedly, which updates the agent's state and moves it through the grid. The loop will continue until the agent's `Status()` function returns -1, indicating that the agent has reached its goal.
 
-To ensure that progress is not lost if the program is interrupted, the state of the grid is saved to a file every 10 minutes using `Grid.save_to_file(agent.grid, 'GridState.json')`.
+To ensure that progress is not lost if the program is interrupted, the state of the grid is saved to a file every 10 steps using `Grid.save_to_file(agent.grid, 'GridState.json')`.
 
 ```
 
